@@ -49,5 +49,6 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
+    // 네비게이션 바 사용
     implementation("androidx.navigation:navigation-ui-ktx:2.7.2")
 }
